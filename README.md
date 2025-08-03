@@ -1,8 +1,3 @@
-Here’s a complete **`README.md`** file for your **AutoSignalX – Intelligent Traffic Signal Simulator** project, written in professional, beginner-friendly language and ready to use on GitHub:
-
----
-
-````markdown
 # AutoSignalX 🚦 – Intelligent Traffic Signal Simulator
 
 AutoSignalX is a real-time, multi-lane traffic signal simulator that models a 4-way intersection using Python and Pygame. Designed for educational and research purposes, it demonstrates concepts like multithreading, dynamic signal timing, vehicle behavior simulation, and object-oriented programming in a distributed control environment.
@@ -37,7 +32,7 @@ AutoSignalX is a real-time, multi-lane traffic signal simulator that models a 4-
 ```bash
 git clone https://github.com/your-username/AutoSignalX.git
 cd AutoSignalX
-````
+```
 
 ### 2. Install Dependencies
 
@@ -77,17 +72,17 @@ AutoSignalX/
 
 ## 💡 Key Learning Outcomes
 
-* Real-time decision-making in smart traffic systems
-* Use of Python OOP for modeling complex entities (signals, vehicles, behaviors)
-* Multithreading in simulations to run concurrent systems (timers, movement)
+* Real-time decision-making in smart traffic systems  
+* Use of Python OOP for modeling complex entities (signals, vehicles, behaviors)  
+* Multithreading in simulations to run concurrent systems (timers, movement)  
 * Visual simulation with Pygame for interactive learning
 
 ---
 
 ## 📌 Future Enhancements (Optional)
 
-* Integrate YOLO-based real-time vehicle detection (currently commented)
-* Add GUI controls for signal override or manual mode
+* Integrate YOLO-based real-time vehicle detection (currently commented)  
+* Add GUI controls for signal override or manual mode  
 * Simulate pedestrian signals and emergency vehicle prioritization
 
 ---
@@ -106,11 +101,9 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👩‍💻 Author
 
-**Mansi Gupta**
-*M.Tech – Software Engineering @ Delhi Technological University*
-GitHub: [Mansi2202](https://github.com/Mansi2202)
+**Mansi Gupta**  
+*M.Tech – Software Engineering @ Delhi Technological University*  
+GitHub: [Mansi2202](https://github.com/Mansi2202)  
 Project: [AutoSignalX](https://github.com/Mansi2202/AutoSignalX)
 
 ---
-
-```
